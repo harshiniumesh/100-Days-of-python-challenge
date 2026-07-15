@@ -13,4 +13,4 @@ A disciplined, daily commitment to mastering Python from the ground up—buildin
 | Day | Project / Topic | Key Concepts Covered | Status |
 | :--- | :--- | :--- | :--- |
 | **Day 01** | Brand Name Generator | String manipulation, variables, handling inputs | ✅ Completed |
-| **Day 02** | *Coming Soon* | *Next challenge...* | ⏳ Upcoming |
+| Day 02 | Tip Calculator Project | Data types, mathematical operations, number manipulation, string formatting, and f-strings | Core Python | ✅ Completed |
