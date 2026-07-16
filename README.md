@@ -14,3 +14,5 @@ A disciplined, daily commitment to mastering Python from the ground up—buildin
 | :--- | :--- | :--- | :--- |
 | **Day 01** | Brand Name Generator | String manipulation, variables, handling inputs | ✅ Completed |
 | Day 02 | Tip Calculator Project | Data types, mathematical operations, number manipulation, string formatting, and f-strings | Core Python | ✅ Completed |
+| Day 03 | Treasure Island Project | Control flow with conditional statements (if/elif/else), nested conditionals, multiple ifs, modulo operator, and logical operators | Core Python | ✅ Completed |
+| Day 04 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
