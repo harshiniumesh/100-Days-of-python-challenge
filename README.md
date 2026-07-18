@@ -16,4 +16,5 @@ A disciplined, daily commitment to mastering Python from the ground up—buildin
 | Day 02 | Tip Calculator Project | Data types, mathematical operations, number manipulation, string formatting, and f-strings | Core Python | ✅ Completed |
 | Day 03 | Treasure Island Project | Control flow with conditional statements (if/elif/else), nested conditionals, multiple ifs, modulo operator, and logical operators | Core Python | ✅ Completed |
 | Day 04 | Rock Paper Scissors | Pseudo-randomization via the `random` module, working with Python lists, handling IndexErrors, and nested data structures | Core Python | ✅ Completed |
-| Day 05 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
+| Day 05 | Password Generator | Iteration logic using `for` loops, leveraging the `range()` function, accumulator patterns, list shuffling, and password randomization | Core Python | ✅ Completed |
+| Day 06 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
