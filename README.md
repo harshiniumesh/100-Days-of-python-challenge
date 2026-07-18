@@ -17,4 +17,5 @@ A disciplined, daily commitment to mastering Python from the ground up—buildin
 | Day 03 | Treasure Island Project | Control flow with conditional statements (if/elif/else), nested conditionals, multiple ifs, modulo operator, and logical operators | Core Python | ✅ Completed |
 | Day 04 | Rock Paper Scissors | Pseudo-randomization via the `random` module, working with Python lists, handling IndexErrors, and nested data structures | Core Python | ✅ Completed |
 | Day 05 | Password Generator | Iteration logic using `for` loops, leveraging the `range()` function, accumulator patterns, list shuffling, and password randomization | Core Python | ✅ Completed |
-| Day 06 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
+| Day 06 | Maze Challenge | Defining/calling functions, implementing `while` loops, conditional logic for navigating hurdles, and complex maze traversal algorithms | Reeborg's World | ✅ Completed ||
+| Day 07 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
