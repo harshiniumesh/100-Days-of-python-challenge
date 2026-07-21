@@ -20,4 +20,5 @@ A disciplined, daily commitment to mastering Python from the ground up—buildin
 | Day 06 | Maze Challenge | Defining/calling functions, implementing `while` loops, conditional logic for navigating hurdles, and complex maze traversal algorithms | Reeborg's World | ✅ Completed ||
 | Day 07 | Hangman Project | Implementing game logic, managing string lists, tracking player progress, handling user input, and modularizing code into functional steps | Core Python | ✅ Completed |
 | Day 08 | Caesar Cipher | Function parameters, passing multiple inputs, distinguishing between positional and keyword arguments, and cryptographic shifting logic | Core Python | ✅ Completed |
-| Day 09 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
+| Day 09 | Secret Auction Program | Working with Python dictionaries, key-value pairs, nesting dictionaries inside lists, and clearing console screens for interactive applications | Core Python | ✅ Completed |
+| Day 10 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
