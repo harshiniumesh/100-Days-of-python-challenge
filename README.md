@@ -23,5 +23,7 @@ A disciplined, daily commitment to mastering Python from the ground up—buildin
 | Day 09 | Secret Auction Program | Working with Python dictionaries, key-value pairs, nesting dictionaries inside lists, and clearing console screens for interactive applications | Core Python | ✅ Completed |
 | Day 10 | Calculator Project | Functions with outputs, multiple return statements, docstrings, and combining dictionaries with loops to build an interactive calculator | Core Python | ✅ Completed |
 | Day 11 | Blackjack Capstone Project | Building a complete text-based Blackjack game using lists, randomisation, nested loops, score tracking, and conditional game logic | Core Python | ✅ Completed |
-| Day 12 | Guess the Number Game | Global and local scope, namespace management, constants, and building an interactive guessing game loop | Core Python | ✅ Completed |
-| Day 13 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
+| Day 12 | Guess the Number Game | Global and local scope, namespace management, constants, and building an interactive guessing game loop | Core Python | ✅ Completed 
+| Day 13 | Debugging Practice | Identifying syntax errors, parsing tracebacks, using print statements for inspection, and systematically troubleshooting broken code | Core Python | ✅ Completed |
+| Day 14 | Higher Lower Game | Object-oriented concepts, dictionary manipulation, game state tracking, and building an interactive higher-lower comparison app | Core Python | ✅ Completed |
+| Day 15 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
