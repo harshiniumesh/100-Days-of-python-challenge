@@ -26,4 +26,5 @@ A disciplined, daily commitment to mastering Python from the ground up—buildin
 | Day 12 | Guess the Number Game | Global and local scope, namespace management, constants, and building an interactive guessing game loop | Core Python | ✅ Completed 
 | Day 13 | Debugging Practice | Identifying syntax errors, parsing tracebacks, using print statements for inspection, and systematically troubleshooting broken code | Core Python | ✅ Completed |
 | Day 14 | Higher Lower Game | Object-oriented concepts, dictionary manipulation, game state tracking, and building an interactive higher-lower comparison app | Core Python | ✅ Completed |
-| Day 15 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
+| Day 15 | Coffee Machine Project | Local development environment setup, state-machine logic, resource management, and transaction processing | Core Python | ✅ Completed |
+| Day 16 | Coming Soon | Awaiting next technical challenge... | — | ⏳ Next Up |
